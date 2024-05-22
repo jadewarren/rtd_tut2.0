@@ -1,15 +1,15 @@
-ViPRE v2.0
+SlicerDESI
 ===================================
 
-**ViPRE** is an extension developed for 3D Slicer that is responsible for the analysis of mass spectrometry data. It performs robust data exploration, visualisation, histopathology correspondence (preprocessing and tissue registration), builds predictive models and visualises results, all in one environment.
+**SlicerDESI** is an extension developed for 3D Slicer that is responsible for the analysis of mass spectrometry data. It performs robust data exploration, visualisation, histopathology correspondence (preprocessing and tissue registration), builds predictive models and visualises results, all in one environment.
 
-.. image :: https://user-images.githubusercontent.com/72317829/164574154-dc5ca17f-ba24-4d1a-a0f4-ca83088e50ca.png
+.. image :: https://github.com/jamzad/SlicerDESI/blob/main/SlicerDESI.png
    :width: 300
 
 .. note::
    This project is under active development. 
 
-ViPRE v2.0 has its documentation hosted on Read the Docs.
+SlicerDESI has its documentation hosted on Read the Docs.
 
 Contents
 --------
