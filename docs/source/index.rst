@@ -6,9 +6,6 @@ SlicerDESI
 .. image :: https://github.com/jamzad/SlicerDESI/blob/main/SlicerDESI.png
    :width: 300
 
-.. note::
-   This project is under active development. 
-
 SlicerDESI has its documentation hosted on Read the Docs.
 
 Contents
